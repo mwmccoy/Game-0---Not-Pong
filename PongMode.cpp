@@ -10,8 +10,6 @@
 
 PongMode::PongMode() {
 
-	addBall(glm::vec2(0.0f, 0.0f), glm::vec2(-1.0f, 0.0f));
-	addBall(glm::vec2(0.0f, 0.0f), glm::vec2(1.0f, 0.0f));
 	//set up trail as if ball has been here for 'forever':
 	for (auto pongball = balls.begin(); pongball != balls.end(); pongball++)
 	{

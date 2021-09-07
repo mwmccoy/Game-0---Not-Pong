@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Pong but fair
 
-Author: (TODO: your name)
+Author: Woody McCoy
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: It's like pong, but the player can introduce new balls whenever they would like. To compensate, the AI has been slightly improved.
 
 Screen Shot:
 
@@ -10,8 +10,8 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Move your mouse to control the position of your paddle on screen. Press space to launch a new ball!
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: N/A
 
 This game was built with [NEST](NEST.md).
